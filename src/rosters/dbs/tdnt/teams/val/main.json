@@ -1,7 +1,7 @@
 {
     "stripe": "default",
-    "title": "Apex Legends Roster",
-    "aliases": ["alr"],
+    "title": "VALORANT Roster",
+    "aliases": ["valr"],
     "team": {
     },
     "members": {
@@ -18,8 +18,13 @@
       "main": {
         "title": "Main",
         "users": [
-          "nova",
-          "sav"
+          "binjo",
+          "dasani",
+          "calamaree",
+          "esuh",
+          "excaliburn",
+          "jurkey64",
+          "rurlz"
         ]
       },
       "sub": {

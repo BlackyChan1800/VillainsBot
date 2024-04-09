@@ -4,7 +4,9 @@
   "tdnt\\staff\\socialmedia.json",
   "tdnt\\staff\\staff.json",
   "tdnt\\staff\\studio.json",
+  "tdnt\\teams\\pubg\\main.json",
   "tdnt\\teams\\r6s\\main.json",
   "tdnt\\teams\\tm\\main.json",
-  "tdnt\\teams\\tm\\storm.json"
+  "tdnt\\teams\\tm\\storm.json",
+  "tdnt\\teams\\val\\main.json"
 ]
